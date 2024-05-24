@@ -572,6 +572,7 @@ body
     }
     .main .sectionB .container .pin
     {
+        display: block;
         justify-content: center;
         align-items: center;
         flex-direction: column;
@@ -605,6 +606,7 @@ body
         font-size: 14px;
         font-weight: 600;
         margin-top: 10px;
+        color: var(--white);
     }
     .tools
     {
