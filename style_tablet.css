@@ -525,6 +525,7 @@
     }
     .main .sectionB .container .pin
     {
+        display: block;
         justify-content: center;
         align-items: center;
         flex-direction: column;
@@ -555,6 +556,7 @@
     }
     .main .sectionB .container .pin p
     {
+        color: var(--white);
         margin-top: 3px;
         font-size: 14px;
     }
